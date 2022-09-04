@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactBook", "ContactBook\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactBook.Domain", "ContactBook.Domain\ContactBook.Domain.csproj", "{20FEBE05-3244-44FF-8DC8-DD48500910C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactBook.Infrastructure", "ContactBook.Infrastructure\ContactBook.Infrastructure.csproj", "{5B1C252E-0ACD-423C-BBD9-FC85E2810763}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{20FEBE05-3244-44FF-8DC8-DD48500910C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20FEBE05-3244-44FF-8DC8-DD48500910C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20FEBE05-3244-44FF-8DC8-DD48500910C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B1C252E-0ACD-423C-BBD9-FC85E2810763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B1C252E-0ACD-423C-BBD9-FC85E2810763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B1C252E-0ACD-423C-BBD9-FC85E2810763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B1C252E-0ACD-423C-BBD9-FC85E2810763}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
